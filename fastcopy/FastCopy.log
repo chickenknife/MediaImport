@@ -1,0 +1,36 @@
+-------------------------------------------------
+FastCopy(ver2.11) start at 2013/05/05 19:54:58
+
+<Source>  d:\
+<DestDir> E:\test
+<Command> 差分（サイズ・日付）
+
+ No Errors
+
+TotalRead = 14.6 MB
+TotalWrite = 14.6 MB
+TotalFiles = 2 (0)
+TotalTime= 0.81 sec
+TransRate= 18.03 MB/s
+FileRate  = 2.47 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
+-------------------------------------------------
+FastCopy(ver2.11) start at 2013/05/05 19:55:15
+
+<Source>  d:\
+<DestDir> E:\test\vmware tool
+<Command> 差分（サイズ・日付）
+
+ No Errors
+
+TotalRead = 14.6 MB
+TotalWrite = 14.6 MB
+TotalFiles = 2 (0)
+TotalTime= 0.34 sec
+TransRate= 42.63 MB/s
+FileRate  = 5.83 files/s
+
+Result : (ErrFiles : 0 / ErrDirs : 0)
+
